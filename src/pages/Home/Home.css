@@ -1,0 +1,23 @@
+.sci-link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 0 1rem;
+  transition: all 0.3s ease-in-out;
+}
+
+.sci-link:hover {
+  color: #e41175;
+}
+
+.sci-all {
+  color: #000000;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 0 1rem;
+  transition: all 0.3s ease-in-out;
+}
+
+.sci-all:hover {
+  color: #e41175;
+}

@@ -1,0 +1,11 @@
+.btn {
+  background: linear-gradient(102.57deg, #d0121e, #e41175 100%, #e41175 0);
+  border-radius: 6.25rem;
+  font-size: 1.125rem;
+  color: #fff;
+  letter-spacing: 0.03125rem;
+  padding: 9pt 2pc;
+  font-family: Basis-regular;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
